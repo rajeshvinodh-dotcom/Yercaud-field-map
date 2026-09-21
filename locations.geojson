@@ -1,0 +1,258 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manjakuttai",
+        "name_ta": "மஞ்சகுட்டை",
+        "category": "village",
+        "category_label": "Village Panchayat",
+        "description": "Official Yercaud Block village panchayat. Map point is a display/locator point and should be replaced by verified GIS coordinates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.19,
+          11.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maramangalam",
+        "name_ta": "மாரமங்கலம்",
+        "category": "village",
+        "category_label": "Village Panchayat",
+        "description": "Official Yercaud Block village panchayat. Map point is a display/locator point and should be replaced by verified GIS coordinates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.145,
+          11.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagalur",
+        "name_ta": "நாகலூர்",
+        "category": "village",
+        "category_label": "Village Panchayat",
+        "description": "Official Yercaud Block village panchayat. Map point is a display/locator point and should be replaced by verified GIS coordinates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.235,
+          11.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Semmanatham",
+        "name_ta": "செம்மநத்தம்",
+        "category": "village",
+        "category_label": "Village Panchayat",
+        "description": "Official Yercaud Block village panchayat. Map point is a display/locator point and should be replaced by verified GIS coordinates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.17,
+          11.735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thalaisolai",
+        "name_ta": "தலைசோலை",
+        "category": "village",
+        "category_label": "Village Panchayat",
+        "description": "Official Yercaud Block village panchayat. Map point is a display/locator point and should be replaced by verified GIS coordinates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.245,
+          11.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vazhavanthi",
+        "name_ta": "வாழவந்தி",
+        "category": "village",
+        "category_label": "Village Panchayat",
+        "description": "Official Yercaud Block village panchayat. Map point is a display/locator point and should be replaced by verified GIS coordinates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.175,
+          11.805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vellakkadai",
+        "name_ta": "வெள்ளக்கடை",
+        "category": "village",
+        "category_label": "Village Panchayat",
+        "description": "Official Yercaud Block village panchayat. Map point is a display/locator point and should be replaced by verified GIS coordinates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.22,
+          11.735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Velur",
+        "name_ta": "வேலூர்",
+        "category": "village",
+        "category_label": "Village Panchayat",
+        "description": "Official Yercaud Block village panchayat. Map point is a display/locator point and should be replaced by verified GIS coordinates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.205,
+          11.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yercaud",
+        "name_ta": "ஏற்காடு",
+        "category": "village",
+        "category_label": "Village Panchayat",
+        "description": "Official Yercaud Block village panchayat. Map point is a display/locator point and should be replaced by verified GIS coordinates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.202,
+          11.774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yercaud Government Hospital",
+        "category": "health",
+        "category_label": "Health Facility",
+        "description": "Government Hospital, Yercaud Coordinates should be verified before field use."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagalur Additional PHC",
+        "category": "health",
+        "category_label": "Health Facility",
+        "description": "Salem district health listing: Nagalur – Additional PHC Coordinates should be verified before field use."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valavanthi CHC / Main PHC",
+        "category": "health",
+        "category_label": "Health Facility",
+        "description": "Salem district health listing: Valavanthi – CHC (UG PHC/Main PHC) Coordinates should be verified before field use."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GHSS Yercaud",
+        "category": "school",
+        "category_label": "School",
+        "description": "Government Higher Secondary School, Yercaud Coordinates should be verified before field use."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GHS Nagalur",
+        "category": "school",
+        "category_label": "School",
+        "description": "Government High School, Nagalur Coordinates should be verified before field use."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GHS Vellakkadai",
+        "category": "school",
+        "category_label": "School",
+        "description": "Government High School, Vellakkadai Coordinates should be verified before field use."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GTR High School, Semmanatham",
+        "category": "school",
+        "category_label": "School",
+        "description": "Government Tribal Residential High School, Semmanatham Coordinates should be verified before field use."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GTR Middle School, Vazhavanthi",
+        "category": "school",
+        "category_label": "School",
+        "description": "Government Tribal Residential Middle School, Vazhavanthi Coordinates should be verified before field use."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eklavya Model Residential School, Yercaud",
+        "category": "school",
+        "category_label": "School",
+        "description": "Government school, Yercaud Coordinates should be verified before field use."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deshayes Mount Hr. Sec. School, Yercaud",
+        "category": "school",
+        "category_label": "School",
+        "description": "School, Yercaud Coordinates should be verified before field use."
+      },
+      "geometry": null
+    }
+  ]
+}

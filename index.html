@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Yercaud Field Map | Health & Village Infrastructure</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head><body>
+<header><div><h1>ஏற்காடு Yercaud Field Map</h1><p>Health • Villages • Schools • Infrastructure</p></div>
+<button id="locate">📍 My location</button></header>
+<div class="controls"><input id="search" placeholder="Search village, facility, school...">
+<select id="layer"><option value="all">All layers</option><option value="village">Village Panchayat</option><option value="health">Health Facility</option><option value="school">School</option><option value="anganwadi">Anganwadi</option><option value="oht">OHT / Water</option><option value="fogging">Fogging / Dengue</option></select>
+<button id="fit">⛶ Yercaud</button></div>
+<div class="layout"><aside><h2>Yercaud Block</h2><div id="stats"></div><div id="list"></div><hr>
+<h3>Field-data format</h3><p class="note">Add verified GPS points in <b>data/locations.geojson</b>. Do not treat automatically geocoded points as official coordinates.</p></aside><div id="map"></div></div>
+<footer>Base map © OpenStreetMap contributors · Demo field application</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="app.js"></script>
+</body></html>
